@@ -27,6 +27,7 @@ Para acessar o web app bastar clicar no seguinte link: ---
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [SASS](https://sass-lang.com/documentation)
 - [Firebase](https://firebase.google.com/docs)
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
 
 <h1 align="left" id="autor">✍️ Autor</h1>
 <a href="https://github.com/wallissonmart">
