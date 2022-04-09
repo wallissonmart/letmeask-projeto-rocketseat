@@ -23,6 +23,7 @@ Para acessar o web app bastar clicar no seguinte link: ---
 - [x] Loguin com autenticação de usuário;
 
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
+
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [SASS](https://sass-lang.com/documentation)
 - [Firebase](https://firebase.google.com/docs)
