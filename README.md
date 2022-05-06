@@ -1,7 +1,7 @@
 <h1 align="left">Letmeask</h1>
 <p align="left"></p>
 
-<p align="left">
+<p align="left"> •
  <a href="#status">Status</a> •
  <a href="#acessar">Como acessar</a> • 
  <a href="#funcionalidades">Funcionalidades</a> • 
