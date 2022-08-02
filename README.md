@@ -16,7 +16,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar o web app bastar clicar no seguinte link: ---
+Para acessar o web app basta clicar no seguinte link: ---
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
